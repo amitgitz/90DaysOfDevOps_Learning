@@ -1,0 +1,4 @@
+- Learn basic about Linux Operating System
+- Types of different Linux distros
+- Learn about Virtual Machine (VM)
+- How to create VM Manually and Automatically using Vagrand Cloud.
